@@ -31,7 +31,7 @@ html {
 }
 /* SECTION ZERO = LANDING VIEW */
 #sec-0{
-    background: linear-gradient(rgba(248, 127, 15, 0.6),rgba(0,0,0,0.6)), url(orange.jpeg) no-repeat top center/cover;
+    background: linear-gradient(rgba(248, 127, 15, 0.6),rgba(0,0,0,0.6)), url(imageicon/oo.jpg) no-repeat top center/cover;
 }
 #sec-0 header.top {
     background-color: var(--haccent);
